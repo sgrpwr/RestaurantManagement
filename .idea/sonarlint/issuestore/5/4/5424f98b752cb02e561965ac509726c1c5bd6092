@@ -1,0 +1,7 @@
+
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σί…π
+=squid:S1172"&Remove these unused method parameters.(σί…π
+Bsquid:S1659"&Declare "password" on a separate line.(©ωΐψÿÿÿÿ
+Lsquid:S1481"0Remove this unused "phoneNumber" local variable.(©ωΐψÿÿÿÿ
+Isquid:S1481"-Remove this unused "password" local variable.(©ωΐψÿÿÿÿ
+@squid:S1481")Remove this unused "name" local variable.(Κ§…ρ
